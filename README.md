@@ -25,6 +25,7 @@ Portanto, não enviar o projeto, documentação ou códigos por e-mail.
 * Informar:
 	+ **Nome e RA de cada um dos integrantes do grupo**. 
 	+ **Endereço do repositório**.
+	+ **Link do perfil LinkedIn de cada um dos integrantes do grupo**.
 	+ **Endereço do Sistema WEB** (Hospedado na AWS, AZURE, Google Cloud, entre outros)
 	
 **ATENÇÃO:**
