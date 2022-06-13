@@ -33,7 +33,7 @@ Sem o envio do email com estas informações o trabalho não será corrigido.
 
 
 ## Calendário de Entregas
-* **10/06/2022**
+* **16/06/2022**
 	+ Versionamento do projeto no Github. 
 	+ Publicação do projeto na Cloud.
 	+ Envio do email formalizando a entrega do projeto.
